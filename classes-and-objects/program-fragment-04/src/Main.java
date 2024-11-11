@@ -3,6 +3,10 @@
  *
  * @author auart
  */
+/**
+ * 10分
+ */
+
 import java.util.*;
 public class Main{
     private int n1;

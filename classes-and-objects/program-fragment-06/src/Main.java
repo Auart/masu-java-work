@@ -39,8 +39,6 @@ class Person {
         return gender;
     }
 
-
-
 }
 
 public class Main {
@@ -59,7 +57,6 @@ public class Main {
         System.out.println("姓名:" + p2.getName());
         System.out.println("性别:" + p2.getGender());
         System.out.println("年龄:" + p2.getAge());
-
 
     }
 }
